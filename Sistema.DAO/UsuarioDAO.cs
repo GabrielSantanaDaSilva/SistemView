@@ -1,8 +1,9 @@
 ﻿using System;
+using Sistema.DAO;
 
 namespace Sistema.DAO
 {
-    public class Class1
+    public class UsuarioDAO
     {
     }
 }
